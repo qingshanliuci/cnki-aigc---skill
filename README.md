@@ -1,5 +1,7 @@
 # cnki-aigc-降重-skill
 
+[![AgentShield Security](https://merx.help/badge/A+.svg)](https://merx.help/shield)
+
 > Claude Skill：针对中文学术论文，把知网AIGC检测器标为"红色显著"的段落改写到落出红色区间，且不改变事实/数字/术语/引用。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
